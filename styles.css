@@ -1,0 +1,17 @@
+.info {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 0.9em;
+  margin: 1em 0;
+}
+.my-vote a {
+  color: white;
+}
+
+.label {
+  margin: 0;
+  font-size: 0.9em;
+}
+
+a:hover {
+  text-decoration: underline;
+}
